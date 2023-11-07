@@ -1,6 +1,10 @@
 # Ex-7 Write a java program to insert an element into array
 # program
 ```
+Developed By : Vishal Gowthaman K R
+Reg No : 212221230123
+```
+```
 public class ArrayInsertion {
     public static void main(String[] args) {
         int[] originalArray = {1, 2, 3, 4, 5};
